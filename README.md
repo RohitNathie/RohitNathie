@@ -1,12 +1,13 @@
-  **Hi, I'm Rohit Nathie**
+  **Hello, I'm Rohit Nathie**
   
   
-  More About Me:
-  👨🏻‍💻Most of my projects are available on [Github](https://github.com/RohitNathie?tab=repositories)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+  
+  **Information**
+
+- 💬 Check my [LinkedIn](https://www.linkedin.com/in/rohit-nathie-645475230/)
+- 💻Most of my projects are available on [Github](https://github.com/RohitNathie?tab=repositories)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 If you have questions or need help, message me on Discord (RohitLegend()#0325)
 
 <!---
 RohitNathie/RohitNathie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
