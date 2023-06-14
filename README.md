@@ -6,7 +6,7 @@
 - 👀 Check my [LinkedIn](https://www.linkedin.com/in/rohit-nathie-645475230/)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 If you have questions or need help, message me on Discord (RohitLegend()#0325)
+- 📫 If you have any questions or need assistance, feel free to message me on Discord: RohitLegend()#0325
 
 ### Languages and Tools:
 <!---
