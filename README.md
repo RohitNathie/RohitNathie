@@ -1,6 +1,6 @@
   **Hello, I'm Rohit Nathie**
   ### About me
-  
+  I am a passionate software developer with a strong interest in building innovative and user-friendly solutions. At the age of 17, I am currently studying Software Development and am determined to continue to develop and grow my skills and grow in this dynamic field.
   
   ### Information
 - Most of my projects are available on [Github](https://github.com/RohitNathie?tab=repositories)
