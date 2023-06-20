@@ -4,7 +4,7 @@
   
   ### Information
 - Most of my projects are available on [Github](https://github.com/RohitNathie?tab=repositories)
-- 👀 Check my [LinkedIn](https://www.linkedin.com/in/rohit-nathie-645475230/)
+- 👀 Check my [LinkedIn](https://www.linkedin.com/in/rohit-nathie-645475230/) profile.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you have any questions or need assistance, feel free to message me on Discord: RohitLegend()#0325
