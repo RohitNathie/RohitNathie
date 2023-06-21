@@ -14,7 +14,7 @@
 - 📫 How to reach me **rohitgame01@gmail.com | Discord: rohitlegend**
 
 - ⚡ Fun fact: **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
-
+<p align="center">Let's connect and collaborate on fascinating projects! Feel free to reach out to me</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-nathie-645475230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-nathie-645475230/" height="30" width="40" /></a>
