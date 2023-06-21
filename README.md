@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitnathie" alt="rohitnathie" /></a> </p>
 
+- 🔭 I’m currently working on [Agenda](https://github.com/RohitNathie/agenda)
+
 - 🌱 I’m currently learning **Spring Boot | Java**
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/RohitNathie?tab=repositories](https://github.com/RohitNathie?tab=repositories)
 
 - 💬 Ask me about **Python | HTML, CSS | MySQL**
 
