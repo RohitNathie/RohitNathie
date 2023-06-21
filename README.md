@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot | Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RohitNathie?tab=repositories](https://github.com/RohitNathie?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
 
 - 💬 Ask me about **Python | HTML, CSS | MySQL**
 
