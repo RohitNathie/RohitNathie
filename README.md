@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohitgame01@gmail.com | Discord: rohitlegend**
 
-- ⚡ Fun fact **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
+- ⚡ Fun fact: **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
