@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitnathie" alt="rohitnathie" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot | Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitNathie?tab=repositories](https://github.com/RohitNathie?tab=repositories)
@@ -28,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitnathie&show_icons=true&locale=en&layout=compact" alt="rohitnathie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitnathie&show_icons=true&locale=en" alt="rohitnathie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnathie&" alt="rohitnathie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitnathie&show_icons=true&theme=tokyonight&locale=en" alt="rohitnathie" /></p>
