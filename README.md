@@ -5,9 +5,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitnathie" alt="rohitnathie" /></a> </p>-->
 
-- 🔭 I’m currently working on [Agenda](https://github.com/RohitNathie/agenda)
+- 🔭 I’m currently working on [Lunchapp](https://github.com/RohitNathie/sip_and_bite)
 
-- 🌱 I’m currently learning **Spring Boot | Java**
+- 🌱 I’m currently learning **Laravel 10**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
 
