@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lunchapp](https://github.com/RohitNathie/sip_and_bite)
 
-- 🌱 I’m currently learning **Laravel 10**
+- 🌱 I’m currently learning **Laravel 10 and Java**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
 
