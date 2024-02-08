@@ -4,7 +4,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitnathie" alt="rohitnathie" /></a> </p>-->
 
-- 🔭 I’m currently working on [Lunchapp](https://github.com/RohitNathie/sip_and_bite)
+- 🔭 I’m currently working on [X]()
 
 - 🌱 I’m currently learning **Angular**
 
