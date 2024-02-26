@@ -12,9 +12,9 @@
 
 - 💬 Feel free to ask me about **Python | HTML, CSS | MySQL | PHP**, and i'll do my best to assist you.
 
-- 📫 How to reach me **rohitgame01@gmail.com | Discord: rohitlegend**
+- 📫 How to reach me? **rohitgame01@gmail.com | Discord: rohitlegend**
 
-- ⚡ Fun fact **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
+- ⚡ Fun fact: **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
 <p align="center">Let's connect and collaborate on fascinating projects! Feel free to reach out to me</p>
 
 <h3 align="left">Connect with me:</h3>
