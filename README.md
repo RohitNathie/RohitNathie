@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
 
-- 💬 Feel free to ask me about **Python | HTML, CSS | MySQL | PHP**, and i'll do my best to assist you.
+- 💬 Feel free to ask me about **Python | HTML, CSS | MySQL | PHP**, and I'll do my best to assist you.
 
 - 📫 How to reach me? **rohitgame01@gmail.com | Discord: rohitlegend**
 
