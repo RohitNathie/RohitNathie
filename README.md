@@ -12,7 +12,7 @@
 
 - 💬 Feel free to ask me about **Python | HTML, CSS | MySQL | PHP**, and I'll do my best to assist you.
 
-- 📫 How to reach me? **rohitgame01@gmail.com | Discord: rohitlegend**
+<!-- - 📫 How to reach me? **rohitgame01@gmail.com | Discord: rohitlegend** -->
 
 - ⚡ Fun fact: **My passion for coding started when I was just a teenager, and since then, I have continued to grow and learn in the world of technology.**
 <p align="center">Let's connect and collaborate on fascinating projects! Feel free to reach out to me</p>
@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitnathie&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rohitnathie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitnathie&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rohitnathie" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitnathie&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rohitnathie" /></p> -->
