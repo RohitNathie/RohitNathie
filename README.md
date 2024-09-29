@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on []()
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/RohitNathie?tab=repositories)
 
