@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/RohitNathie/RohitNathie/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
-<h3 align="center">Passionate Software Developer | Lifelong Learner from the Netherlands 🇳🇱</h3>
+<h3 align="center">Passionate Cybersecurity Engineer | Lifelong Learner from the Netherlands 🇳🇱</h3>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitnathie" alt="rohitnathie" /></a> </p>-->
